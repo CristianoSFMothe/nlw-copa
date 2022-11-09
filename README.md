@@ -70,12 +70,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 - todos os elementos html serão considerados uma caixa (conteúdo, largura, altura, preenchimento, margem, bordas, espaçamento).
 
-##### B) Retomando o projeto:
-
-- Configurando o VS Code:
-
-  - criação da pasta .vscode;
-  - criação do arquivo settings.json.
+##### B) Configurando o projeto:
 
 - Criando e configurando o arquivo style.css.
 
